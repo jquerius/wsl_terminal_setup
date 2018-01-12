@@ -1,5 +1,5 @@
 
-Install the WSL Terminal with Pretty-Colors and Fonts on Windows 10: 
+# Install the WSL Terminal with Pretty-Colors and Fonts on Windows 10: 
 
 * 	Enable the Windows Subsystem for Linux (Bash)
 
